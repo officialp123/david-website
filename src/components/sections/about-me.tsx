@@ -42,14 +42,16 @@ const AboutMeSection = () => {
               href={EXTERNAL_LINKS.LINKEDIN}
             >
               self-proclaimed developer
-            </Link>{' '} with over 6 years of experience in frontend development. I am
+            </Link>{' '} with over 6 years of experience in frontend development, including 5 years of expertise
+with Webflow. Specializes in creating user-focused, conversion-driven designs for complex single-page ap-
+plications (SPAs). I am
             enthusiastic about bringing the technical and visual aspects of
-            digital products to life. User experience, pixel perfect design, and
+            digital products to life. User experience, pixel-perfect design, and
             writing clear, readable, highly performant code matters to me.
           </Typography>
           <Typography>
             I&apos;m committed to adhering to best practices in accessibility, performance optimization, and production monitoring, ensuring that my projects are both user-friendly and performant. I thrive in collaborative environments and am a strong communicator, always eager to share knowledge and learn from others I&apos;m building cutting-edge web applications using
-            modern technologies such as HTML,CSS, JS, TypeScript, Reactjs and much more.
+            modern technologies such as HTML, CSS, JS, TypeScript, Reactjs and much more.
           </Typography>
           <Typography>
             I am very much a progressive thinker and enjoy working on products
