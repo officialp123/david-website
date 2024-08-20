@@ -33,7 +33,7 @@ const HeroSection = () => {
             <Typography>
               I&apos;m a passionate frontend developer with a focus
               on creating (and occasionally designing) exceptional digital
-              experiences and a strong foundation in HTML, CSS, JavaScript, and TypeScript. I&apos;m driven to craft elegant and efficient web applications that deliver exceptional user experiences. My expertise lies in leveraging modern frameworks like React to build high-quality, scalable solutions that meet the demands of today&apos;s digital landscape.
+              experiences and a strong foundation in Webflow, HTML, CSS, JavaScript, and TypeScript. I&apos;m driven to craft elegant and efficient web applications that deliver exceptional user experiences. My expertise lies in leveraging modern frameworks like React to build high-quality, scalable solutions that meet the demands of today&apos;s digital landscape.
             </Typography>
           </div>
           <div className="flex flex-col gap-2">
