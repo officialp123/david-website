@@ -126,11 +126,6 @@ export const TECHNOLOGIES: TechDetails[] = [
     url: 'https://www.figma.com/',
   },
   {
-    label: 'WebFlow',
-    logo: LogoWebFlow,
-    url: 'https://webflow.com/',
-  },
-  {
     label: 'Cypress',
     logo: LogoCypress,
     darkModeLogo: LogoCypressLight,
