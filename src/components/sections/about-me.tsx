@@ -65,7 +65,7 @@ plications (SPAs). I am
               withUnderline
               href={EXTERNAL_LINKS.LINKEDIN}
             >
-              Twitter
+              LinkedIn
             </Link>{' '}
             where I share all my experiences, or you can
             follow me on{' '}
