@@ -42,9 +42,8 @@ const AboutMeSection = () => {
               href={EXTERNAL_LINKS.LINKEDIN}
             >
               self-proclaimed developer
-            </Link>{' '} with over 6 years of experience in frontend development, including 5 years of expertise
-with Webflow. Specializes in creating user-focused, conversion-driven designs for complex single-page ap-
-plications (SPAs). I am
+            </Link>{' '} with over 6 years of experience in front-end development, including 5 years of expertise
+with Webflow. Specializes in creating user-focused, conversion-driven designs for complex single-page applications (SPAs). I am
             enthusiastic about bringing the technical and visual aspects of
             digital products to life. User experience, pixel-perfect design, and
             writing clear, readable, highly performant code matters to me.
