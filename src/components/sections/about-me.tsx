@@ -91,10 +91,7 @@ with Webflow. Specializes in creating user-focused, conversion-driven designs fo
               <Typography component="li">Aspiring creative Individual</Typography>
             </ul>
           </div>
-          <Typography>
-            One last thing, I&apos;m available for contract and full time work, so feel free
-            to reach out and say hello! I promise I don&apos;t bite 😉
-          </Typography>
+     
           <Typography>
             One last thing, I&apos;m available for full time or contract work, so feel free
             to reach out and say hello! I promise I don&apos;t bite 😉
