@@ -2,7 +2,7 @@
 
 import Button from "@/components/general/button";
 
-const DownloadCV = () => {
+const DownloadCV: React.FC = () => {
   return (
     <Button
       onClick={() =>
