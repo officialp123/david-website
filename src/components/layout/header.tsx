@@ -21,7 +21,7 @@ import Typography from '@/components/general/typography';
 
 const Logo = () => (
   <Typography variant="h2" className="font-bold">
-    {'<CU />'}
+    {'<DU />'}
   </Typography>
 );
 
