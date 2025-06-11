@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     siteName: title,
     images: [
       {
-        url: "/images/open-graph-David.jpeg",
+        url: "/images/open-graph-chiagozie.jpeg",
       },
     ],
   },
@@ -42,12 +42,12 @@ export const metadata: Metadata = {
     title,
     description,
     creator: "@David",
-    images: "/images/open-graph-David.jpeg",
+    images: "/images/open-graph-chiagozie.jpeg",
   },
   icons: {
-    icon: "/photo1.jpg",
-    shortcut: "/photo1.jpg",
-    apple: "/photo1.jpg",
+    icon: "/images/open-graph-chiagozie.jpeg",
+    shortcut: "/images/open-graph-chiagozie.jpeg",
+    apple: "/images/open-graph-chiagozie.jpeg",
   },
 };
 
