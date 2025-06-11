@@ -1,6 +1,6 @@
 import Image from 'next/image';
 
-import SagarFullPose from '/public/images/chiagozie-full-pose.jpg';
+import SagarFullPose from '/public/images/chiagozie-full-pose.jpeg';
 import Tag from '@/components/data-display/tag';
 import Container from '@/components/layout/container';
 import Typography from '@/components/general/typography';
@@ -41,12 +41,12 @@ const AboutMeSection = () => {
               withUnderline
               href={EXTERNAL_LINKS.LINKEDIN}
             >
-              self-proclaimed developer
-            </Link>{' '} with over 7 years of experience in front-end development, including 5 years of expertise
-with Webflow. Specializes in creating user-focused, conversion-driven designs for complex single-page applications (SPAs). I am
-            enthusiastic about bringing the technical and visual aspects of
-            digital products to life. User experience, pixel-perfect design, and
-            writing clear, readable, highly performant code matters to me.
+              creative and detail-oriented developer
+            </Link>{' '} wWith over 5 years of experience in front-end development, including 5 years of specialized expertise in Webflow, I bring a strong focus on creating user-centric, conversion-driven designs for complex single-page applications (SPAs).
+
+I’m deeply passionate about uniting the technical and visual layers of digital products, transforming ideas into intuitive, high-impact experiences. Pixel-perfect design, seamless user experience, and writing clean, readable, high-performance code aren’t just goals, they’re the standards I live by.
+
+I thrive in environments where design meets code, and where every detail contributes to building fast, accessible, and visually striking applications.
           </Typography>
           <Typography>
             I&apos;m committed to adhering to best practices in accessibility, performance optimization, and production monitoring, ensuring that my projects are both user-friendly and performant. I thrive in collaborative environments and am a strong communicator, always eager to share knowledge and learn from others I&apos;m building cutting-edge web applications using
@@ -58,25 +58,7 @@ with Webflow. Specializes in creating user-focused, conversion-driven designs fo
           </Typography>
           <Typography>
             I&apos;m constantly seeking new challenges and pushing the boundaries of what&apos;s possible in web development. I believe that technology has the power to make a positive impact on the world, and I&apos;m excited to contribute my skills to projects that make a difference. you can take a look at my{' '}
-            <Link
-              noCustomization
-              externalLink
-              withUnderline
-              href={EXTERNAL_LINKS.LINKEDIN}
-            >
-              LinkedIn
-            </Link>{' '}
-            where I share all my experiences, or you can
-            follow me on{' '}
-            <Link
-              noCustomization
-              externalLink
-              withUnderline
-              href={EXTERNAL_LINKS.GITHUB}
-            >
-              GitHub
-            </Link>
-            .
+            
           </Typography>
          <Typography>Finally, some quick bits about me.</Typography>
           <div className="flex flex-col gap-2 md:flex-row md:gap-6">

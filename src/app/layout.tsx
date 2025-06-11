@@ -19,8 +19,8 @@ export const metadata: Metadata = {
   metadataBase: new URL(url),
   title,
   description,
-  keywords: ["Frontend Developer", "React Developer", "JavaScript Developer"],
-  creator: "Chiagozie Uchenna",
+  keywords: ["Frontend Developer", "React Developer", "JavaScript Developer", "Webflow", "Web developer"],
+  creator: "David Uchenna",
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "white" },
     { media: "(prefers-color-scheme: dark)", color: "black" },
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     siteName: title,
     images: [
       {
-        url: "/images/open-graph-chiagozie.jpg",
+        url: "/images/open-graph-chiagozie.jpeg",
       },
     ],
   },
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     title,
     description,
     creator: "@Chiagozie",
-    images: "/images/open-graph-chiagozie.jpg",
+    images: "/images/open-graph-chiagozie.jpeg",
   },
   icons: {
     icon: "/photo1.jpg",

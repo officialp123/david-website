@@ -27,13 +27,18 @@ const HeroSection = () => {
         <div className="flex max-w-3xl flex-grow flex-col justify-center gap-8 md:order-first md:items-start md:justify-center 2xl:gap-12">
           <div className="flex flex-col gap-2">
             <Typography variant="h1">
-              Hi, I&apos;m Chiagozie{' '}
+              Hi, I&apos;m David{' '}
               <span className="inline-block animate-waving-hand">👋</span>
             </Typography>
             <Typography>
-              I&apos;m a passionate frontend developer with a focus
-              on creating (and occasionally designing) exceptional digital
-              experiences and a strong foundation in Webflow, HTML, CSS, JavaScript, and TypeScript. I&apos;m driven to craft elegant and efficient web applications that deliver exceptional user experiences. My expertise lies in leveraging modern frameworks like React to build high-quality, scalable solutions that meet the demands of today&apos;s digital landscape.
+             I&apos;m a <strong>creative frontend engineer</strong> who turns complex ideas into seamless digital realities.<br />
+  With a deep love for <strong>clean code and captivating interfaces</strong>, I blend the art of design with the science of development.<br /><br />
+
+  From rapid prototypes to production-ready apps, I specialize in <strong>building delightful user experiences</strong> using Webflow, HTML, CSS, JavaScript, and TypeScript.<br /><br />
+
+  I&apos;m not just passionate about writing functional code &mdash; I care deeply about how products <strong>feel</strong>, <strong>perform</strong>, and <strong>evolve</strong>.<br />
+  My strength lies in using <strong>modern frameworks like React</strong> to create scalable, maintainable, and accessible solutions that users genuinely enjoy.
+
             </Typography>
           </div>
           <div className="flex flex-col gap-2">

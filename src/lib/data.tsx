@@ -41,7 +41,7 @@ export const EXTERNAL_LINKS = {
   GITHUB: "https://github.com/officialp123",
   GITHUB_REPO: "https://github.com/officialp123",
   TWITTER: "",
-  LINKEDIN: "https://www.linkedin.com/in/chiagozie-uchenna/",
+  LINKEDIN: "",
   FIGMA: "",
   FIGMA_FILE: "#",
 };
