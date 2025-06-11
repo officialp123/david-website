@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import { MapPin } from 'lucide-react';
 
-import ChiagozieHeadshot from '/public/images/chiagozie-headshot.jpg';
+import ChiagozieHeadshot from '/public/images/chiagozie-headshot.jpeg';
 import SocialIcons from '@/components/data-display/social-icons';
 import Typography from '@/components/general/typography';
 import Container from '@/components/layout/container';
