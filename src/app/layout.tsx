@@ -10,10 +10,10 @@ import Footer from "@/components/layout/footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
-const title = "Chiagozie Uchenna | Software Developer | frontend developer";
+const title = "David Uchenna | Software Developer | frontend developer";
 const description =
   "A self-proclaimed designer who specializes in frontend development, from Anambra, Nigeria.";
-const url = "https://www.linkedin.com/in/chiagozie-uchenna/";
+const url = "https://www.linkedin.com/in/David-uchenna/";
 
 export const metadata: Metadata = {
   metadataBase: new URL(url),
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     siteName: title,
     images: [
       {
-        url: "/images/open-graph-chiagozie.jpeg",
+        url: "/images/open-graph-David.jpeg",
       },
     ],
   },
@@ -41,8 +41,8 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title,
     description,
-    creator: "@Chiagozie",
-    images: "/images/open-graph-chiagozie.jpeg",
+    creator: "@David",
+    images: "/images/open-graph-David.jpeg",
   },
   icons: {
     icon: "/photo1.jpg",

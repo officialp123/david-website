@@ -28,7 +28,7 @@ const Footer = () => {
           >
             coded
           </Link>
-          &nbsp;with ❤️️ by Chiagozie Uchenna
+          &nbsp;with ❤️️ by David Uchenna
         </Typography>
       </div>
     </footer>

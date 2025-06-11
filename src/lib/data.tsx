@@ -72,7 +72,7 @@ export const SOCIAL_LINKS = [
   },
   {
     icon: Linkedin,
-    url: "https://www.linkedin.com/in/chiagozie-uchenna/",
+    url: "https://www.linkedin.com/in/David-uchenna/",
   },
 ];
 
@@ -251,7 +251,7 @@ export const TESTIMONIALS: TestimonialDetails[] = [
     personAvatar: AvatarKrisztian,
     title: "Founder - inboxgenie.io",
     testimonial:
-      "Job well done! I am really impressed. He is very very good at what he does:) I would recommend Chiagozie and will rehire in the future for Frontend development.",
+      "Job well done! I am really impressed. He is very very good at what he does:) I would recommend David and will rehire in the future for Frontend development.",
   },
   {
     personName: "Eugen Esanu",
@@ -265,6 +265,6 @@ export const TESTIMONIALS: TestimonialDetails[] = [
     personAvatar: AvatarDummy,
     title: "Freelancer",
     testimonial:
-      "Chiagozie was extremely easy and pleasant to work with and he truly cares about the project being a success. Chiagozie has a high level of knowledge and was able to work on my MERN stack application without any issues.",
+      "David was extremely easy and pleasant to work with and he truly cares about the project being a success. David has a high level of knowledge and was able to work on my MERN stack application without any issues.",
   },
 ];
