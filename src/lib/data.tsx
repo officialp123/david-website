@@ -72,7 +72,7 @@ export const SOCIAL_LINKS = [
   },
   {
     icon: Linkedin,
-    url: "https://www.linkedin.com/in/David-uchenna/",
+    url: "https://www.linkedin.com/in//",
   },
 ];
 
